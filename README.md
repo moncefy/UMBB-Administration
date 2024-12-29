@@ -1,5 +1,5 @@
 
-#  🚀 UMBB - Administration
+#   UMBB - Administration
 
   
 
@@ -11,7 +11,7 @@
 
   
 
-##  📝 Project Overview
+##   Project Overview
 
   
 
@@ -26,7 +26,7 @@
 -  **Admin Panel** for overseeing and managing all requests.
 
 
-##  🛠️ Installation
+##  🛠 Installation
 
   
 
@@ -90,7 +90,7 @@ http://localhost/UMBB_ADMINISTRATION
 
   
 
-##  🌟 Features
+##   Features
 
   
 
